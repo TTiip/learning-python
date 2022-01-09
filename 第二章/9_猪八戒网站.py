@@ -22,4 +22,3 @@ for div in divs:
   print(price)
   print(title)
   print('=========')
-
